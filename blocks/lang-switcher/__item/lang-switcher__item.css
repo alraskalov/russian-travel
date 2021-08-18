@@ -1,0 +1,7 @@
+.lang-switcher__item {
+  margin-right: 18px;
+}
+
+.lang-switcher__item:last-child {
+  margin-right: 0;
+}

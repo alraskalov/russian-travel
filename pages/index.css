@@ -1,0 +1,12 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts.css');
+
+@import url('../blocks/root/root.css');
+@import url('../blocks/page/page.css');
+
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__logo/header__logo.css');
+
+@import url('../blocks/lang-switcher/lang-switcher.css');
+@import url('../blocks/lang-switcher/__item/lang-switcher__item.css');
+@import url('../blocks/lang-switcher/__lang-link/lang-switcher__lang-link.css');
