@@ -5,3 +5,11 @@
   line-height: 1;
   max-width: 720px;
 }
+
+
+@media screen and (max-width: 768px) {
+  .lead__title {
+    font-size: 44px;
+    line-height: 1.1;
+  }
+}

@@ -3,4 +3,5 @@
   margin: auto;
   font-family: 'Inter';
   color: #fff;
+  text-rendering: optimizeLegibility;
 }
