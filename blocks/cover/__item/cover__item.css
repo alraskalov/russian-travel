@@ -1,0 +1,10 @@
+.cover__item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  flex-direction: column;
+  padding: 50px;
+  background: rgba(42, 44, 47, .3);
+}
