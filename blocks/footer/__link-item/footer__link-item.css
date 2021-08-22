@@ -1,4 +1,6 @@
 .footer__link-item {
   text-decoration: none;
   color: #fff;
+  transition: opacity .6s;
 }
+

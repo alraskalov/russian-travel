@@ -10,3 +10,7 @@
   text-decoration: none;
   color: #fff;
 }
+
+.cover__item:hover {
+  background: rgba(42, 44, 47, .8);
+}
