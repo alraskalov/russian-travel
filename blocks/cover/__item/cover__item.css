@@ -7,4 +7,6 @@
   flex-direction: column;
   padding: 50px;
   background: rgba(42, 44, 47, .3);
+  text-decoration: none;
+  color: #fff;
 }
