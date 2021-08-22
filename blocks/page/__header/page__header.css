@@ -16,7 +16,7 @@
   }
 }
 
-@media screen  and (max-width: 320px) {
+@media screen  and (max-width: 345px) {
   .page__header {
     margin-top: 16px;
     margin-left: 16px;
