@@ -1,3 +1,25 @@
 .page__places {
   margin: 0 auto 92px;
 }
+
+
+@media screen  and (max-width: 1280px) {
+  .page__places {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
+
+@media screen  and (max-width: 768px) {
+  .page__places {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}
+
+@media screen  and (max-width: 320px) {
+  .page__places {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

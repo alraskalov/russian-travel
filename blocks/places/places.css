@@ -2,4 +2,5 @@
   max-width: 984px;
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   color: #fff;
+  box-sizing: border-box;
 }

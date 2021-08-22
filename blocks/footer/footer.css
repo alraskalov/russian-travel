@@ -6,3 +6,11 @@
   justify-content: space-between;
   align-items: center;
 }
+
+
+@media screen  and (max-width: 739px) {
+  .footer {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

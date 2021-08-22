@@ -7,9 +7,9 @@
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen  and (max-width: 695px) {
   .lead__title {
-    font-size: 44px;
+    font-size: 40px;
     line-height: 1.1;
   }
 }
