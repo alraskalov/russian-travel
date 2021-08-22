@@ -10,5 +10,5 @@
 + CSS3 + HTML5
 + BEM
 
-* [Ссылка на проект](https://alraskalov.github.io/russian-travel/)
+[Ссылка на проект](https://alraskalov.github.io/russian-travel/)
 
