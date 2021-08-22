@@ -1,5 +1,6 @@
 .lead {
   max-width: 984px;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   display: flex;
   text-align: center;
   flex-direction: column;

@@ -1,5 +1,6 @@
 .cover {
   max-width: 1184px;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   background-image: url('../../images/__background.jpg');
   display: flex;
   background-repeat: no-repeat;
