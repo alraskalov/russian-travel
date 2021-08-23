@@ -19,7 +19,7 @@
 @import url('../blocks/lang-switcher/lang-switcher.css');
 @import url('../blocks/lang-switcher/__item/lang-switcher__item.css');
 @import url('../blocks/lang-switcher/__lang-link/lang-switcher__lang-link.css');
-@import url('../blocks/lang-switcher/_active/lang-switcher_active.css');
+@import url('../blocks/lang-switcher/__lang-link/_active/lang-switcher__lang-link_active.css');
 
 
 @import url('../blocks/lead/lead.css');
