@@ -1,8 +1,5 @@
 .place__paragraphs {
   max-width: 484px;
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
 }
 
 @media screen  and (max-width: 320px) {

@@ -14,5 +14,12 @@
   .page__lead {
     margin-right: 0;
     margin-left: 0;
+    margin-bottom: 88px;
+  }
+}
+
+@media screen  and (max-width: 695px) {
+  .page__lead {
+    margin-bottom: 64px;
   }
 }
